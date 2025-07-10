@@ -1,12 +1,12 @@
 {
-  "name": "XTREME-XMD",
+  "name": "𝑮𝑶𝑫 𝑰𝒁𝑼𝑵𝑨",
   "version": "1.0.0",
-  "description": "A WhatsApp Bot Created By Dev Princextremx",
+  "description": "TOUT FANM SE BOUZEN !",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name XTREME-XMD",
-    "stop": "pm2 stop EXTREME-XMD",
-    "restart": "pm2 restart XTREME-XMD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name God Izuna",
+    "stop": "pm2 stop GOD IZUNA",
+    "restart": "pm2 restart God Izuna"
   },
   "dependencies": {
    "@whiskeysockets/baileys": "npm:baileys-pro@0.0.5",
